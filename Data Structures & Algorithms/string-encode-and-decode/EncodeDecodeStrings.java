@@ -1,4 +1,5 @@
-class Solution {
+//Encode and Decode Strings - Leet Code - 271
+class EncodeDecodeStrings {
 
     public String encode(List<String> strs) {
         StringBuilder sb = new StringBuilder();
